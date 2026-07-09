@@ -1,4 +1,4 @@
 Github Pull Request Demo
-Version 1.0
+Version 2.0
 This change was added via a Pull Request.
-This Pull Request has been updated.
+This Pull Request has been updated, I want develope this version to help deaf people.
